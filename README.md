@@ -18,7 +18,7 @@ I’m always eager to meet people who share my interests and passions, share exp
 
 - 📫 How to reach me **secsys@secsys.aleeas.com**
 
-### Blogs posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

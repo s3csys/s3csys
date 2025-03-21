@@ -14,7 +14,7 @@ jobs:
             - name: Checkout
               uses: actions/checkout@v3
             - name: Pull latest post from my blog
-              uses: gautamkrishnar/blog-post-workflow@v1
+              uses: gautamkrishnar/blog-post-workflow@master
               with:
                   feed_list: "https://secsys.pages.dev/feed.xml"
                   template: "- `$date` | [$title]($url)  $newline"
