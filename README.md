@@ -24,10 +24,12 @@ I’m always eager to meet people who share my interests and passions, share exp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://secsys.pages.dev" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="30"/></a>
-  <a href="mailto:secsys@secsys.aleeas.com" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/email.png" height="30" width="30"/></a>
-  <a href="https://secsys.pages.dev/feed.xml" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" height="30" width="30"/></a>
+  <a href="https://secsys.pages.dev" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/domain.png" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/shaikmuzammil55" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:secsys@secsys.aleeas.com" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email"/></a>
+  <a href="https://secsys.pages.dev/feed.xml" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/rss.png" alt="RSS Feed"/></a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s3csys&show_icons=true&locale=en&layout=compact" alt="s3csys" /></p>
