@@ -22,6 +22,14 @@ I’m always eager to meet people who share my interests and passions, share exp
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://secsys.pages.dev" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="30"/></a>
+  <a href="mailto:secsys@secsys.aleeas.com" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/email.png" height="30" width="30"/></a>
+  <a href="https://secsys.pages.dev/feed.xml" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" height="30" width="30"/></a>
+</p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s3csys&show_icons=true&locale=en&layout=compact" alt="s3csys" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s3csys&show_icons=true&locale=en" alt="s3csys" /></p>
