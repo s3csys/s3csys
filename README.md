@@ -28,7 +28,7 @@ I’m always eager to meet people who share my interests and passions, share exp
    Connect with me: 
    <a href="https://secsys.pages.dev" target="_blank">🌐 Website</a> | 
    <a href="mailto:secsys@secsys.aleeas.com" target="_blank">📧 Email</a> | 
-   <a href="https://secsys.pages.dev/feed.xml" target="_blank">📡 RSS Feed</a> | 
+   <a href="https://secsys.pages.dev/feed.xml" target="_blank">📡 RSS Feed</a>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s3csys&label=Profile%20views&color=0e75b6&style=flat" alt="s3csys" /> </p>
