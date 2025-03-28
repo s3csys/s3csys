@@ -36,8 +36,8 @@ I’m always eager to meet people who share my interests and passions, share exp
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s3csys&show_icons=true&locale=en" alt="s3csys" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=s3csys&show_icons=true&locale=en" alt="s3csys" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s3csys&show_icons=true&locale=en&layout=compact" alt="s3csys" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s3csys&show_icons=true&locale=en&layout=compact" alt="s3csys" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s3csys&" alt="s3csys" /></p>
