@@ -25,7 +25,6 @@ I’m always eager to meet people who share my interests and passions, share exp
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://secsys.pages.dev" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/4B5563/domain.png" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/shaikmuzammil55" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/4B5563/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:secsys@secsys.aleeas.com" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/4B5563/new-post.png" alt="Email"/></a>
   <a href="https://secsys.pages.dev/feed.xml" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/4B5563/rss.png" alt="RSS Feed"/></a>
 </p>
