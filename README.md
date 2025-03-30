@@ -16,11 +16,11 @@ I’m always eager to meet people who share my interests and passions, share exp
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- `2025-03-28` | [Terrafrom](https://secsys.pages.dev//posts/tfcheat/)  
+- `2025-03-28` | [Terraform Proxmox LXC Containers](https://secsys.pages.dev//posts/terraform/)  
+- `2025-03-28` | [Kubernetes](https://secsys.pages.dev//posts/kcheat/)  
 - `2025-03-13` | [Automating Linux Interactions with Expect](https://secsys.pages.dev//posts/expect/)  
 - `2025-03-08` | [psql](https://secsys.pages.dev//posts/psql-cheatsheet/)  
-- `2025-03-08` | [PostgreSQL Replication on Debian](https://secsys.pages.dev//posts/postgresql/)  
-- `2025-03-01` | [Jenkins Rsync Backup &amp; Discord Alerts](https://secsys.pages.dev//posts/jenkins-backup/)  
-- `2025-02-03` | [Open WebUI &amp; Ollama setup on Windows](https://secsys.pages.dev//posts/ollama/)  
 
 <!-- BLOG-POST-LIST:END -->
 
