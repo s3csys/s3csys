@@ -8,9 +8,7 @@ My homelab projects are a hands-on way of staying on top of the latest in the te
 🌐 Let’s Connect! 🌐<br>
 I’m always eager to meet people who share my interests and passions, share experiences, and explore new collaborations in the ever-changing tech landscape. Connect with me, and let’s achieve great things together<br>
 
-📝 I regularly write articles on <a href="https://secsys.pages.dev" target="_blank">secsys.pages.dev</a>
-
-- 📝 I regularly write articles on [https://secsys.pages.dev/](https://secsys.pages.dev/)
+- 📝 I regularly write articles on <a href="https://secsys.pages.dev" target="_blank">secsys.pages.dev</a>
 
 - 📫 How to reach me **secsys@secsys.aleeas.com**
 
