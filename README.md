@@ -14,11 +14,11 @@ I’m always eager to meet people who share my interests and passions, share exp
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- `2025-04-04` | [Terraform + Cloud-Init VM Deploy ☁️](https://secsys.pages.dev//posts/terraform-vm/)  
+- `2025-04-28` | [Windows Server 2025 on VMware Pro 🖥️](https://secsys.pages.dev//posts/windows-iis/)  
+- `2025-04-06` | [Terraform + Cloud-Init VM Deploy ☁️](https://secsys.pages.dev//posts/terraform-vm/)  
 - `2025-04-03` | [Kubernetes Cluster Setup](https://secsys.pages.dev//posts/kubernetes/)  
 - `2025-03-28` | [Terrafrom](https://secsys.pages.dev//posts/tfcheat/)  
 - `2025-03-28` | [Terraform Proxmox LXC Containers](https://secsys.pages.dev//posts/terraform/)  
-- `2025-03-28` | [Kubernetes](https://secsys.pages.dev//posts/kcheat/)  
 
 <!-- BLOG-POST-LIST:END -->
 
