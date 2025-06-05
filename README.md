@@ -14,11 +14,11 @@ I’m always eager to meet people who share my interests and passions, share exp
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- `2025-06-04` | [🐧 Linux Environment Variables](https://secsys.pages.dev//posts/linux-environment/)  
 - `2025-05-29` | [Git](https://secsys.pages.dev//posts/git-cheat/)  
 - `2025-05-14` | [Cloudtrail Event](https://secsys.pages.dev//posts/aws-cloudtrail/)  
 - `2025-05-01` | [Install OSTicket with Apache + MySQL](https://secsys.pages.dev//posts/osticket/)  
 - `2025-04-28` | [Windows Server 2025 on VMware Pro 🖥️](https://secsys.pages.dev//posts/windows-iis/)  
-- `2025-04-06` | [Terraform + Cloud-Init VM Deploy ☁️](https://secsys.pages.dev//posts/terraform-vm/)  
 
 <!-- BLOG-POST-LIST:END -->
 
